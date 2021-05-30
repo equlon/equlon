@@ -26,5 +26,6 @@
   <img align="left" alt="equlon's Pinned Repository" src="https://github-readme-stats.codestackr.vercel.app/api/pin?username=equlonX&repo=nitrosniper" />
 
 [twitter]: https://twitter.com/equlon1
-[steam]: https://steamcommunity.com/profile/equlon
+[steam]:   https://steamcommunity.com/id/equlon/
 [youtube]: https://youtube.com/channel/UC5PKF6wUApK7FS1cw_E4eQw
+[discord]: https://discord.gg/4js4b6Nwxh
